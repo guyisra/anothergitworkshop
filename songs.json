@@ -1,28 +1,32 @@
 {
     "songs": [
         {
-            "title": "The Sound of Silence",
-            "artist": "Simon & Garfunkel",
-            "album": "Wednesday Morning, 3 A.M.",
-            "year": 1964,
-            "genre": "Folk",
-            "duration": "3:52"
+            "title": "The River",
+            "artist": "Bruce Springsteen",
+            "album": "Born in the U.S.A.",
+            "year": 1984,
+            "genre": "Rock",
+            "duration": 4.5,
+            "track": 1
         },
         {
-            "title": "The Boxer",
-            "artist": "Simon & Garfunkel",
-            "album": "Wednesday Morning, 3 A.M.",
-            "year": 1964,
-            "genre": "Folk",
-            "duration": "3:52"
+            "title": "Born in the U.S.A.",
+            "artist": "Bruce Springsteen",
+            "album": "Born in the U.S.A.",
+            "year": 1984,
+            "genre": "Rock",
+            "duration": 4.5,
+            "track": 2
         },
         {
-            "title": "Scarborough Fair",
-            "artist": "Simon & Garfunkel",
-            "album": "Wednesday Morning, 3 A.M.",
-            "year": 1964,
-            "genre": "Folk",
-            "duration": "3:52"
+            "title": "Dancing in the Dark",
+            "artist": "Bruce Springsteen",
+            "album": "Born in the U.S.A.",
+            "year": 1984,
+            "genre": "Rock",
+            "duration": 4.5,
+            "track": 3
         }
+
     ]
 }
