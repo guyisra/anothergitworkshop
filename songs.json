@@ -1,0 +1,28 @@
+{
+    "songs": [
+        {
+            "title": "The Sound of Silence",
+            "artist": "Simon & Garfunkel",
+            "album": "Wednesday Morning, 3 A.M.",
+            "year": 1964,
+            "genre": "Folk",
+            "duration": "3:52"
+        },
+        {
+            "title": "The Boxer",
+            "artist": "Simon & Garfunkel",
+            "album": "Wednesday Morning, 3 A.M.",
+            "year": 1964,
+            "genre": "Folk",
+            "duration": "3:52"
+        },
+        {
+            "title": "Scarborough Fair",
+            "artist": "Simon & Garfunkel",
+            "album": "Wednesday Morning, 3 A.M.",
+            "year": 1964,
+            "genre": "Folk",
+            "duration": "3:52"
+        }
+    ]
+}
