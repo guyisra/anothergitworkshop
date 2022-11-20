@@ -1,3 +1,26 @@
 1. explain what git is
 2. explain what it is for
 3. lets practice
+
+Practice:
+
+1. Let look at a JSON file
+
+
+
+
+Git Actions:
+
+1. Checkout
+2. Commit 
+  - push
+  - pull
+3. Change Branch
+4. Stash
+5. merge a Branch
+6. merge conflict
+7. reset
+ - soft
+ - hard
+8. rebase ?
+9. 
